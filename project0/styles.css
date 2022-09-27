@@ -1,0 +1,47 @@
+/* index page styling */
+#additional_searches_div {
+    text-align: right;
+}
+
+#search_div {
+    text-align: center;
+    margin-top: 10%; 
+}
+
+#text {
+    border-radius: 25px;
+    width: 500px;
+    height: 30px;
+}
+
+/* images page styling */
+
+#index_page {
+    text-align: right;
+}
+
+/* advanced page styling */
+#advanced_form  { display: table;  }
+p     { display: table-row;  }
+label { display: table-cell; }
+.advanced_input { display: table-cell; }
+
+
+#advanced_sub_title {
+    font-size: 18px;
+}
+#advanced_title {
+    color: red; margin: 25px;
+}
+#advanced_search_submission_div {
+    text-align: right;
+}
+
+#advanced_search_submission_button {
+    font-weight: bold;
+    background-color: blue;
+    width: 150px; 
+    height: 35px;
+}
+
+
